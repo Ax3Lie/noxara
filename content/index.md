@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Вітаємо в Ноксарі!
 ---
-Вітаємо в Ноксарі!
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Це вікі по моєму авторському всесвіту Ноксара, тут ви можете знайти опис вимірів, народів, істот та іншого, а також мапи світів або менших локацій.
